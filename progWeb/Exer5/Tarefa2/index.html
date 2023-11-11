@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrinho de Compra</title>
+</head>
+<body>
+    <section>
+        <h1>Bem vindo a Amazon</h1>
+        <p>Faça suas compras e nos de mais dinheiro.</p>
+    </section>
+    <section class="compras">
+        <h2>Carrinho de Compras:</h2>
+        <p>Adicione seus produtos</p>
+        <form action="/compras" id="form-compras">
+            <label for="qtd">Quantidade</label>
+            <input type="number" id="qtd">
+            <label for="produto">Nome</label>
+            <input type="text" id="produto">
+            <button>Adicionar</button>
+        </form>
+    </section>
+    <section class="lista-pedidos">
+        <h2>Pedido:</h2>
+        <p>Seu pedido esta vazio. Adicione produtos no carrinho!</p>
+        <ul id="lista-pedidos">
+        </ul>
+    </section>
+    <script src="main.js"></script>
+</body>
+</html>
