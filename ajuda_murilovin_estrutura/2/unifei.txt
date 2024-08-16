@@ -1,0 +1,30 @@
+José Silva,12345678900,Sistemas de Informação,1001
+Maria Santos,23456789011,Ciência da Computação,1002
+João Oliveira,34567890122,Engenharia Elétrica,1003
+Ana Souza,45678901233,Engenharia Mecânica,1004
+Pedro Almeida,56789012344,Engenharia de Controle e Automação,1005
+Carla Lima,67890123455,Engenharia Civil,1006
+Marcos Pereira,78901234566,Engenharia de Produção,1007
+Camila Costa,89012345677,Engenharia Química,1008
+Rafael Santos,90123456788,Engenharia Ambiental,1009
+Juliana Martins,01234567899,Matemática,1010
+Felipe Oliveira,12345678900,Física,1011
+Mariana Silva,23456789011,Química,1012
+Lucas Souza,34567890122,Biologia,1013
+Larissa Almeida,45678901233,Administração,1014
+Gabriel Lima,56789012344,Economia,1015
+Amanda Pereira,67890123455,Direito,1016
+Guilherme Costa,78901234566,Arquitetura e Urbanismo,1017
+Fernanda Santos,89012345677,Design Gráfico,1018
+Daniel Silva,90123456788,Jornalismo,1019
+Isabela Martins,01234567899,Publicidade e Propaganda,1020
+Thiago Oliveira,12345678900,Medicina,1021
+Luiza Souza,23456789011,Enfermagem,1022
+Diego Almeida,34567890122,Odontologia,1023
+Vitória Lima,45678901233,Psicologia,1024
+Roberto Pereira,56789012344,Nutrição,1025
+Bianca Costa,67890123455,Engenharia de Computação,1026
+Rodrigo Santos,78901234566,Engenharia Biomédica,1027
+Patrícia Martins,89012345677,Engenharia de Telecomunicações,1028
+Renato Silva,90123456788,Design de Interiores,1029
+Vanessa Oliveira,01234567899,Agronomia,1030

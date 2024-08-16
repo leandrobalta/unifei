@@ -1,0 +1,14 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
+
+*.zip
+*.tar.gz
+*.tar.bz2
+
+*.ipynb
+
+node_modules/

@@ -11,9 +11,9 @@ def bellmanFord(matrix, source, target):
         for v in range(len(matrix)):
             for u in range(len(matrix[v])):
                 if costs[u] > costs[v] + matrix[v][u] and matrix[v][u] != -1:
-                    #print(f"path: {path}")
-                    #print(f"matrix[v][u]: {matrix[v][u]}")
-                    #print(f"PATH: {path}\n")
+                    print(f"path: {path}")
+                    print(f"matrix[v][u]: {matrix[v][u]}")
+                    print(f"PATH: {path}\n")
                     costs[u] = costs[v] + matrix[v][u]
                     path[u] = v
     
